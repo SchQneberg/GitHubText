@@ -18,6 +18,7 @@ public class GitHubExperiment {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Jacobs Mor elsker PIND-IS");
+        System.out.println("Den er tom, din idiot!");
     }
     
 }
